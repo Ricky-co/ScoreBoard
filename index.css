@@ -6,6 +6,8 @@ html, body {
     height: 100%;
     font-family: 'Play', sans-serif;
     font-size: 35px;
+    width: 800px;
+    margin: auto;
 }
 
 .container {
